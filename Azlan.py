@@ -14,7 +14,7 @@ loop = 'true'
 while (loop == 'true'):
     username = raw_input('\033[1;91mENTER TOOL KEY…………=>> :\033[1;93m ')
     if (username == CorrectUsername):
-            print '\033[1;92m Logged in successfully as '
+            print '\033[1;92m Logged sucssful '
             time.sleep(1)
             os.system('xdg-open https://www.facebook.com/atif.awan.395891')
             os.system('clear')

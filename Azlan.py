@@ -7,7 +7,7 @@
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 __author__ = 'AZLAN'
-__copyright = 'All rights reserved . Copyright  USMAN SHAHZAD'
+__copyright = 'All rights reserved . Copyright  AZLAN SHA'
 CorrectUsername = 'AZLAN'
 os.system('clear')
 loop = 'true'
